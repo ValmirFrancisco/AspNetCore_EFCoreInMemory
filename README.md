@@ -187,16 +187,16 @@ Project Link: [https://github.com/ValmirFrancisco/AspNetCore_EFCoreInMemory](htt
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/ValmirFrancisco/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/ValmirFrancisco/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/ValmirFrancisco/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/ValmirFrancisco/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/ValmirFrancisco/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/ValmirFrancisco/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/ValmirFrancisco/Best-README-Template.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/ValmirFrancisco/AspNetCore_EFCoreInMemory.svg?style=for-the-badge
+[contributors-url]: https://github.com/ValmirFrancisco/AspNetCore_EFCoreInMemory/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/ValmirFrancisco/AspNetCore_EFCoreInMemory.svg?style=for-the-badge
+[forks-url]: https://github.com/ValmirFrancisco/AspNetCore_EFCoreInMemory/network/members
+[stars-shield]: https://img.shields.io/github/stars/ValmirFrancisco/AspNetCore_EFCoreInMemory.svg?style=for-the-badge
+[stars-url]: https://github.com/ValmirFrancisco/AspNetCore_EFCoreInMemory/stargazers
+[issues-shield]: https://img.shields.io/github/issues/ValmirFrancisco/AspNetCore_EFCoreInMemory.svg?style=for-the-badge
 [issues-url]: https://github.com/ValmirFrancisco/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/ValmirFrancisco/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/ValmirFrancisco/AspNetCore_EFCoreInMemory/blob/main/Licence.txt
+[license-shield]: https://img.shields.io/github/license/ValmirFrancisco/AspNetCore_EFCoreInMemory.svg?style=for-the-badge
+[license-url]: https://github.com/ValmirFrancisco/AspNetCore_EFCoreInMemory/blob/main/License.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/valmir-francisco-b7a9a455/
 [product-screenshot]: images/screenshot.png
