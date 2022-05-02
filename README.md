@@ -123,7 +123,7 @@ _For more examples, please refer to the [Documentation](https://github.com/Valmi
 - [ ] Add Additional Templates w/ Examples
 - [ ] Add "components" document to easily copy & paste sections of the readme
 - [ ] Multi-language Support
-    - [ ] Chinese
+    - [ ] English
     - [ ] Spanish
 
 See the [open issues](https://github.com/ValmirFrancisco/AspNetCore_EFCoreInMemory/issues) for a full list of proposed features (and known issues).
