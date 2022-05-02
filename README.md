@@ -194,7 +194,7 @@ Project Link: [https://github.com/ValmirFrancisco/AspNetCore_EFCoreInMemory](htt
 [stars-shield]: https://img.shields.io/github/stars/ValmirFrancisco/AspNetCore_EFCoreInMemory.svg?style=for-the-badge
 [stars-url]: https://github.com/ValmirFrancisco/AspNetCore_EFCoreInMemory/stargazers
 [issues-shield]: https://img.shields.io/github/issues/ValmirFrancisco/AspNetCore_EFCoreInMemory.svg?style=for-the-badge
-[issues-url]: https://github.com/ValmirFrancisco/Best-README-Template/issues
+[issues-url]: https://github.com/ValmirFrancisco/AspNetCore_EFCoreInMemory/issues
 [license-shield]: https://img.shields.io/github/license/ValmirFrancisco/AspNetCore_EFCoreInMemory.svg?style=for-the-badge
 [license-url]: https://github.com/ValmirFrancisco/AspNetCore_EFCoreInMemory/blob/main/License.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
